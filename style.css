@@ -120,6 +120,11 @@ body{
 	color: white;
 }
 
+.contact-desc a{
+	text-decoration: none;
+	color: white;
+}	
+
 
 .portotitle{
 	width: 100%;
